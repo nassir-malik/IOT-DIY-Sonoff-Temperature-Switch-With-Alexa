@@ -11,8 +11,8 @@
 #include <WebSocketsClient.h>
 #include <Hash.h>
 // @@@@@@@@@@@@@@@ You only need to modify wi-fi and domain info @@@@@@@@@@@@@@@@@@@@
-const char* ssid     = "suddenlink.net-AD42"; //enter your ssid/ wi-fi(case sensitive) router name - 2.4 Ghz only
-const char* password = "G7MBSY89C601814";     // enter ssid password (case sensitive)
+const char* ssid     = "enter your ssid"; //enter your ssid/ wi-fi(case sensitive) router name - 2.4 Ghz only
+const char* password = "enter ssid password";     // enter ssid password (case sensitive)
 char host[] = "smarttempswitch.herokuapp.com"; //- better your Heroku domain name like  "smarttempswitch.herokuapp.com" 
 // @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 #define dht_dpin 14 //Sonoff
